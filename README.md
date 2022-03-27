@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY
+<!-- 2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY
 - 컴퓨터・메카트로닉스공학부 소프트웨어전공
-- 학점 :3.61
+- 학점 :3.61 -->
 
 
 
