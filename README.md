@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+2021.10.25 ~ 
+[T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)
+
