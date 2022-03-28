@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 대외활동
 2019. 06 ~ 2019. 12
 YAHAIT - 코딩 동아리
-
 2021. 07 ~ 2021. 08
 대학코딩캠프(8기) 
 
