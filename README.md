@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 대외활동    
 2022. 01 ~  
 [공덕코딩테스트스터디](https://www.notion.so/c499053c44e849748364e20907b1bf73)  
+[개인 저장소](https://github.com/parkdonghwan97/CODING_TEST)
 
 2019. 06 ~ 2019. 12  
 YAHAIT - 코딩 동아리  
