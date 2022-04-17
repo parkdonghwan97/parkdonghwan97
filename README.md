@@ -22,29 +22,30 @@ Here are some ideas to get you started:
 
 
 2022. 04 ~   
-[CS_Study](https://github.com/parkdonghwan97/CS_STUDY)
+- [CS_Study](https://github.com/parkdonghwan97/CS_STUDY)
 
 2021.10 ~   
-[T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
+- [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
 
 2020.12 ~ 2021. 02  
-(주)오마이브랜드 - 인턴  
+- (주)오마이브랜드 - 인턴  
 
-대외활동    
+# 대외활동 
+
 2022. 01 ~  
-[공덕코딩테스트스터디](https://www.notion.so/c499053c44e849748364e20907b1bf73)  
-[개인 저장소](https://github.com/parkdonghwan97/CODING_TEST)
+- [공덕코딩테스트스터디](https://www.notion.so/c499053c44e849748364e20907b1bf73)  
+- [개인 저장소](https://github.com/parkdonghwan97/CODING_TEST)
 
 2019. 06 ~ 2019. 12  
-YAHAIT - 코딩 동아리  
+- YAHAIT - 코딩 동아리  
 
 2021. 07 ~ 2021. 08  
-대학코딩캠프(8기)   
+- 대학코딩캠프(8기)   
 
 
 
 
-자격증  
+# 자격증  
 - 정보처리기사  
 - SQL 개발자 (SQLD)  
 - 데이터분석 준전문가 (ADsP)  
