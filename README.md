@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 
 
+2022. 04 ~
+[CS_Study](https://github.com/parkdonghwan97/CS_STUDY)
 
 2021.10 ~   
 [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
