@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 2022. 04 ~   
-- [CS_Study](https://github.com/parkdonghwan97/CS_STUDY)
+- [기술면접 준비](https://www.notion.so/819b1aa1bbcc4802b638e9c9993bdcfb)
 
 2021.10 ~   
 - [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
@@ -43,6 +43,15 @@ Here are some ideas to get you started:
 - 대학코딩캠프(8기)   
 
 
+# 프로젝트
+- 2020. 06 ~ 2020.09 
+- ['너에게 꽃히다' - 꽃배달 웹 애플리케이션]()
+
+- 2021.01 ~ 2021.04
+- [What The NFT? - NFT 데이터 분석](https://github.com/syleeie2310/nft_dataanalysis)
+
+- 2021.04 ~ 
+- [이미지 데이터 분석 및 처리](https://github.com/AndEnd-da-team/deskresearch)
 
 
 # 자격증  
