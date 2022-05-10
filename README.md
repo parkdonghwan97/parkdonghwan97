@@ -1,4 +1,4 @@
-### Hi there 👋
+# 안녕하세요. 박동환입니다. 👋
 
 <!--
 **parkdonghwan97/parkdonghwan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY  
+2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY  
 - 컴퓨터・메카트로닉스공학부 소프트웨어전공  
-- 학점 :3.61 -->  
+- 학점 :3.61
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh6941)](https://solved.ac/pdh6941)
 
 2022. 04 ~   
 - [기술면접 준비](https://www.notion.so/819b1aa1bbcc4802b638e9c9993bdcfb)
