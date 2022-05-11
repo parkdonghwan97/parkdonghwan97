@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY  
-- 컴퓨터・메카트로닉스공학부 소프트웨어전공  
-- 학점 :3.61
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh6941)](https://solved.ac/pdh6941)
+
+
+![PDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdonghwan97&show_icons=true)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh6941)](https://solved.ac/pdh6941)  
 
 2022. 04 ~   
 - [기술면접 준비](https://www.notion.so/819b1aa1bbcc4802b638e9c9993bdcfb)
 
 2021.10 ~   
 - [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
+
+2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY  
+- 컴퓨터・메카트로닉스공학부 소프트웨어전공  
+- 학점 :3.61
 
 2020.12 ~ 2021. 02  
 - (주)오마이브랜드 - 인턴  
