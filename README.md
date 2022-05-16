@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - [What The NFT? - NFT 데이터 분석](https://github.com/syleeie2310/nft_dataanalysis)
 
 - 2021.04 ~ 
-- [이미지 데이터 분석 및 처리](https://github.com/AndEnd-da-team/deskresearch)
+- [이미지 데이터 분석 및 처리](https://github.com/AndEnd-da-team/LV_bag_classification)
 
 
 # 자격증  
