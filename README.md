@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 2022. 05 ~
 - [2022년 서울시 뉴딜일자리사업 서비스플랫폼 개발자 양성과정](https://www.spc.or.kr/pr/news_view.asp?seq=1325&con_div=A)
+  - [개인 공부 정리](https://www.notion.so/5649ea84d92547a9aaab7f8240f7d941)
 
 2022. 04 ~   
 - [기술면접 준비](https://www.notion.so/819b1aa1bbcc4802b638e9c9993bdcfb)
