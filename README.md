@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   - [개인 공부 정리](https://www.notion.so/5649ea84d92547a9aaab7f8240f7d941)
 
 2022. 04 ~   
-- [기술면접 준비](https://www.notion.so/819b1aa1bbcc4802b638e9c9993bdcfb)
+- [기술면접 준비](https://neat-system-1d2.notion.site/819b1aa1bbcc4802b638e9c9993bdcfb)
 
 2021.10 ~ 2022.05  
 - [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 # 대외활동 
 
 2022. 01 ~  
-- [공덕코딩테스트스터디](https://www.notion.so/c499053c44e849748364e20907b1bf73)  
+- [공덕코딩테스트스터디](https://glacier-geography-de2.notion.site/c499053c44e849748364e20907b1bf73)  
 - [개인 저장소](https://github.com/parkdonghwan97/CODING_TEST)
 
 2019. 06 ~ 2019. 12  
