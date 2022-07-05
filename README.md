@@ -61,19 +61,19 @@ Here are some ideas to get you started:
 
 # 프로젝트
 
-- 2020.06 ~ 2020.09 
+- 2020.06 ~ 2020.09  
 - ['너에게 꽃히다' - 꽃배달 웹 애플리케이션]()
 
-- 2022.01 ~ 2022.04
+- 2022.01 ~ 2022.04  
 - [What The NFT? - NFT 데이터 분석](https://github.com/syleeie2310/nft_dataanalysis)
 
-- 2022.04 ~ 2022.05
+- 2022.04 ~ 2022.05  
 - [LV_bag_classification 이미지 데이터 분석 및 처리](https://github.com/AndEnd-da-team/LV_bag_classification)
 
-- 2022. 06 ~ 2022. 07
-- [Netflex_(Netflix_CloneCoding_with django](https://github.com/parkdonghwan97/Netflix_Django)
+- 2022.06 ~ 2022. 07  
+- [Netflex_(Netflix_CloneCoding_with django)](https://github.com/parkdonghwan97/Netflix_Django)
 
-- 2022. 07 ~ 
+- 2022.07 ~  
 - [Spring을 활용한 게시판 만들기](https://github.com/parkdonghwan97/Board_Spring)
 
 # 자격증  
