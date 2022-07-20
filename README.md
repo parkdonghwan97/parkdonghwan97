@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![PDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdonghwan97&show_icons=true)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh6941)](https://solved.ac/pdh6941)  
 
-2022. 05 ~
+2022. 05 ~ 2022. 07
 - [2022년 서울시 뉴딜일자리사업 서비스플랫폼 개발자 양성과정](https://www.spc.or.kr/pr/news_view.asp?seq=1325&con_div=A)
   - [개인 공부 정리](https://www.notion.so/5649ea84d92547a9aaab7f8240f7d941)
 
