@@ -25,19 +25,18 @@ Here are some ideas to get you started:
 - [2022년 서울시 뉴딜일자리사업 서비스플랫폼 개발자 양성과정](https://www.spc.or.kr/pr/news_view.asp?seq=1325&con_div=A)
   - [개인 공부 정리](https://www.notion.so/5649ea84d92547a9aaab7f8240f7d941)
 
-2022. 04 ~   
+2022. 04 ~ 2022. 09  
 - [기술면접 준비](https://neat-system-1d2.notion.site/819b1aa1bbcc4802b638e9c9993bdcfb)
 
 2021.10 ~ 2022.05  
 - [T-Academy Python기반 AI 활용 데이터 분석가 양성 과정](https://github.com/parkdonghwan97/T-Academy)  
-<!-- 
+
 2016. 03 ~ 2022.02 SAHMYOOK UNIVERSITY  
 - 컴퓨터・메카트로닉스공학부 소프트웨어전공  
 - 학점 : 3.61
- -->
  
  # 인턴 
-2022.08 ~ 
+2022.08 ~ 2022.09
 - 한국취업센터
 - 웹페이지 유지보수 및 부분개발
 - 기타 CS작업
