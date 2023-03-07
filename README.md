@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ㅑ
 
-
-
+<!-- 
 ![PDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdonghwan97&show_icons=true)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh6941)](https://solved.ac/pdh6941)  
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - [2022년 서울시 뉴딜일자리사업 서비스플랫폼 개발자 양성과정](https://www.spc.or.kr/pr/news_view.asp?seq=1325&con_div=A)
 <!--   - [개인 공부 정리](https://www.notion.so/5649ea84d92547a9aaab7f8240f7d941) -->
 
+<!--
 2022. 04 ~ 2022. 09  
 - [기술면접 준비](https://neat-system-1d2.notion.site/819b1aa1bbcc4802b638e9c9993bdcfb)
 
@@ -86,7 +87,7 @@ Here are some ideas to get you started:
 
 - 2022.07 ~  
 - [Spring을 활용한 게시판 만들기](https://github.com/parkdonghwan97/Board_Spring)
-
+!-->
 # 자격증  
 - 정보처리기사  
 - SQL 개발자 (SQLD)  
