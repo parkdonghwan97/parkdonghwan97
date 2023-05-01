@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 2022.06 ~ 2022. 07  
 - [Netflex_(Netflix_CloneCoding_with django)](https://github.com/parkdonghwan97/Netflix_Django)
 
-- 2022.07 ~  
+- 2022.07 ~ 2022. 07 
 - [Spring을 활용한 게시판 만들기](https://github.com/parkdonghwan97/Board_Spring)
 !-->
 # 자격증  
